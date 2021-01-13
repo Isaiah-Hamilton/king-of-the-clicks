@@ -13,7 +13,3 @@ while True:
     browser.find_element_by_xpath('//*[@id="__layout"]/div/main/div[3]/div[3]/div/div[2]/div/div[2]/div[2]/div[2]/div[2]/span').click()
     browser.find_element_by_xpath('//*[@id="__layout"]/div/main/div[3]/div[3]/div/div[2]/div/div[2]/div[2]/div[2]/div[2]/span').click()
     browser.find_element_by_xpath('//*[@id="__layout"]/div/main/div[3]/div[3]/div/div[2]/div/div[2]/div[2]/div[2]/div[2]/span').click()
-    browser.find_element_by_xpath('//*[@id="__layout"]/div/main/div[3]/div[3]/div/div[2]/div/div[2]/div[1]/div[2]/div[2]/span').click()
-    browser.find_element_by_xpath('//*[@id="__layout"]/div/main/div[3]/div[3]/div/div[2]/div/div[2]/div[1]/div[2]/div[2]/span').click()
-    browser.find_element_by_xpath('//*[@id="__layout"]/div/main/div[3]/div[3]/div/div[2]/div/div[2]/div[1]/div[2]/div[2]/span').click()
-    browser.find_element_by_xpath('//*[@id="__layout"]/div/main/div[3]/div[3]/div/div[2]/div/div[2]/div[1]/div[2]/div[2]/span').click()
