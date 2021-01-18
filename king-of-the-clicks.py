@@ -1,6 +1,6 @@
 from selenium import webdriver
 import time
-#pip install selenium for the project to work.
+#pip install selenium, webdriver, and time for the project to work.
 
 url = "https://kingoftheclicks.com/?ref=thekingoftheclicks"
 browser = webdriver.Chrome('LOCATION OF FOR THE CHROME DRIVER')
