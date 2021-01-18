@@ -3,7 +3,7 @@ import time
 #pip install selenium for the project to work.
 
 url = "https://kingoftheclicks.com/?ref=thekingoftheclicks"
-browser = webdriver.Chrome('/Users/isaiah/Desktop/Code/Python/king-of-the-clicks/chromedriver')
+browser = webdriver.Chrome('LOCATION OF FOR THE CHROME DRIVER')
 browser.get(url)
 
 time.sleep(2)
